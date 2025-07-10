@@ -21,3 +21,30 @@
 * Design of HVAC and Fluids systems contacted under Department of Defense using Autodesk inventor services.
 * Extensive Thermodynamics, Fluid Mechanics, and Heat Transfer uses.
 * Understanding of code compliance such as ASHRAE, and UFC. 
+
+# Projects:
+
+## Machining:
+(Insert link)
+
+## Coding:
+(Insert link)
+
+## Electrical:
+(Insert Link)
+
+## Automotive:
+(Insert Link)
+
+## Bicycle: 
+(Insert link)
+
+# Additional Experience
+## Languages: 
+* Intermediate writing and speaking skills in Spanish
+
+## Leadership: 
+* Fraternity Academic Advisor: Leader in raising the chapter GPA from 2.8 to 3.2 Cumulative
+
+## Volunteerism:
+* Big Brothers and Big Sisters of Utah: Aided in design of a week of philanthropic events raising upwards of $10,000 
