@@ -1,3 +1,3 @@
-# portfolio
+# Mechanical Engineer
 
-### Mechanical Engineering Univeristy of Utah 
+### Projects
