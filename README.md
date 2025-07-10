@@ -18,5 +18,6 @@
 * Focused on teaching students the ability to problem solve and work as a group to complete problems.
  
 ### Mechanical Engineering Intern | Michael Baker International | May 2025 - Present
-* Design of HVAC and Fluids systems contacted under Department of Defense using Autodesk inventor services 
-* Extensive Thermodynamics, Fluid Mechanics, and Heat Transfer uses
+* Design of HVAC and Fluids systems contacted under Department of Defense using Autodesk inventor services.
+* Extensive Thermodynamics, Fluid Mechanics, and Heat Transfer uses.
+* Understanding of code compliance such as ASHRAE, and UFC. 
