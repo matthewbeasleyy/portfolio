@@ -1,4 +1,4 @@
-# Matthew Beasley
+# About Me
 
 ## Education:
 ### B.S Mechanical Engineering, Design and Manufacturing | Apr. 2026 | GPA 3.875   
