@@ -1,7 +1,7 @@
 # About Me
 
 ## Education:
-### B.S Mechanical Engineering, Design and Manufacturing | Apr. 2026 | GPA 3.875   
+### B.S Mechanical Engineering, Design and Manufacturing | Apr. 2026 | GPA 3.3675  
 #### University of Utah
 * Minor in Robotics
 * Western Undergraduate Exchange Scholarship
